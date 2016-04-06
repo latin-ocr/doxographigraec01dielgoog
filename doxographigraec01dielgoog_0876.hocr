@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doxographigraec01dielgoog/doxographigraec01dielgoog_0876.png"; bbox 0 0 3576 5752; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 330 742 1375 956">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 330 742 1375 956">
+     <span class='ocr_line' id='line_1_1' title="bbox 330 742 1367 848; baseline -0.001 -13"><span class='ocrx_word' id='word_1_1' title='bbox 330 742 332 751; x_wconf 80' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 453 773 822 848; x_wconf 69' lang='lat' dir='ltr'><strong>utnettemumaned,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 832 772 1367 836; x_wconf 66' lang='lat' dir='ltr'><strong>mobomwerwfflmonfledot</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 440 869 1375 956; baseline -0.002 -24"><span class='ocrx_word' id='word_1_4' title='bbox 440 869 948 956; x_wconf 70' lang='lat' dir='ltr'><strong>theneedfomearlierretum.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 969 869 1375 948; x_wconf 70' lang='lat' dir='ltr'><strong>(Non-miptofoverdue</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 429 3803 1385 3894">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 429 3803 1385 3894">
+     <span class='ocr_line' id='line_1_3' title="bbox 429 3803 1385 3894; baseline -0.001 -19"><span class='ocrx_word' id='word_1_6' title='bbox 429 3803 1181 3894; x_wconf 58' lang='lat' dir='ltr'><strong>Myousorbespbtgustopmemour</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1190 3803 1385 3875; x_wconf 70' lang='lat' dir='ltr'><strong>collection!</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1792 5752">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1792 5752">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1792 5752; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1792 5752; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
